@@ -1,5 +1,5 @@
 # WebScraper
-A simple node-cli WebScraper app.
+A simple node-cli **Website Scraper** app.
 ### Setup
 First clone the repository and then,
 Run following command on your nodejs console or terminal to install required dependencies.
